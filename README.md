@@ -2,6 +2,8 @@
 
 A real-time voice translation platform designed to break down language barriers between English and Tamil speakers. Kural enables natural conversations by instantly translating spoken words, making communication seamless and effortless.
 
+## Live Demo [Visit the app here](https://kural-chi.vercel.app/)
+
 ## Features
 
 - **Real-time Translation**: Instant voice-to-text and translation between English and Tamil
